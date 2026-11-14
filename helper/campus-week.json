@@ -1,0 +1,21 @@
+{
+  "timezone": "America/New_York",
+  "walking_meters_per_second": 1.4,
+  "places": {
+    "Residence": [43.08579, -77.66898],
+    "Lecture hall": [43.08555, -77.67110],
+    "Library": [43.08385, -77.67410],
+    "Lunch": [43.08470, -77.67285],
+    "Lab": [43.08595, -77.67400]
+  },
+  "days": {
+    "Mon": "classes", "Tue": "lab", "Wed": "classes", "Thu": "lab",
+    "Fri": "short day", "Sat": "weekend", "Sun": "weekend"
+  },
+  "routines": {
+    "classes": [["08:00", "Residence"], ["09:00", "Lecture hall"], ["12:10", "Lunch"], ["13:00", "Library"], ["16:30", "Residence"]],
+    "lab": [["08:30", "Residence"], ["10:00", "Lab"], ["12:30", "Lunch"], ["14:00", "Library"], ["17:00", "Residence"]],
+    "short day": [["08:30", "Residence"], ["09:30", "Lecture hall"], ["12:00", "Lunch"], ["13:30", "Residence"]],
+    "weekend": [["09:00", "Residence"], ["13:00", "Library"], ["15:00", "Residence"]]
+  }
+}

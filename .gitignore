@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+__pycache__/
+*.py[cod]
+.venv/
+drive-request.json
+drive-status.json

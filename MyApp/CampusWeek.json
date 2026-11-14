@@ -1,0 +1,196 @@
+{
+  "Mon": [
+    {
+      "name": "Residence",
+      "clock": "08:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Lecture hall",
+      "clock": "09:00",
+      "lat": 43.08555,
+      "lon": -77.6711
+    },
+    {
+      "name": "Lunch",
+      "clock": "12:10",
+      "lat": 43.0847,
+      "lon": -77.67285
+    },
+    {
+      "name": "Library",
+      "clock": "13:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "16:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Tue": [
+    {
+      "name": "Residence",
+      "clock": "08:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Lab",
+      "clock": "10:00",
+      "lat": 43.08595,
+      "lon": -77.674
+    },
+    {
+      "name": "Lunch",
+      "clock": "12:30",
+      "lat": 43.0847,
+      "lon": -77.67285
+    },
+    {
+      "name": "Library",
+      "clock": "14:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "17:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Wed": [
+    {
+      "name": "Residence",
+      "clock": "08:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Lecture hall",
+      "clock": "09:00",
+      "lat": 43.08555,
+      "lon": -77.6711
+    },
+    {
+      "name": "Lunch",
+      "clock": "12:10",
+      "lat": 43.0847,
+      "lon": -77.67285
+    },
+    {
+      "name": "Library",
+      "clock": "13:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "16:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Thu": [
+    {
+      "name": "Residence",
+      "clock": "08:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Lab",
+      "clock": "10:00",
+      "lat": 43.08595,
+      "lon": -77.674
+    },
+    {
+      "name": "Lunch",
+      "clock": "12:30",
+      "lat": 43.0847,
+      "lon": -77.67285
+    },
+    {
+      "name": "Library",
+      "clock": "14:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "17:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Fri": [
+    {
+      "name": "Residence",
+      "clock": "08:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Lecture hall",
+      "clock": "09:30",
+      "lat": 43.08555,
+      "lon": -77.6711
+    },
+    {
+      "name": "Lunch",
+      "clock": "12:00",
+      "lat": 43.0847,
+      "lon": -77.67285
+    },
+    {
+      "name": "Residence",
+      "clock": "13:30",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Sat": [
+    {
+      "name": "Residence",
+      "clock": "09:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Library",
+      "clock": "13:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "15:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ],
+  "Sun": [
+    {
+      "name": "Residence",
+      "clock": "09:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    },
+    {
+      "name": "Library",
+      "clock": "13:00",
+      "lat": 43.08385,
+      "lon": -77.6741
+    },
+    {
+      "name": "Residence",
+      "clock": "15:00",
+      "lat": 43.08579,
+      "lon": -77.66898
+    }
+  ]
+}

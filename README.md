@@ -1,4 +1,4 @@
-# Campus Location Lab
+# Life360 Location Spoofer
 
 An iPhone map and GPS debugger with a small Mac companion.
 
